@@ -38,6 +38,7 @@ b.	intersect function – checks if the path intersect with the boxes
 c.	Rotate function – if the path that calculated intersects the boxes this function will rotate the path in 10 degrees till it will the 'b' function return false.
 
 3.	Output class:
+
 a.	Paths  - of the 'player'
 
 b.	Statistics
